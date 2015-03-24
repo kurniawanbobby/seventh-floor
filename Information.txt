@@ -2,7 +2,10 @@
  - Logic model discussion
  - Added Logic model; need more edition
 
-24-3-2015
+23-3-2015
  - Discusion about logic model ppt
  - Finishing ppt
  - Distribution of task
+
+24-3-2015
+ -Practice presentation
