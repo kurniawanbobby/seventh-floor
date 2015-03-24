@@ -1,3 +1,6 @@
 21-3-2015
  - Logic model discussion
  - Added Logic model; need more edition
+
+24-3-2015
+ - Discusion about logic model ppt
